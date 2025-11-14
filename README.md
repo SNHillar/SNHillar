@@ -1,16 +1,26 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy Saul!
 
-<!--
-**SNHillar/SNHillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador de software y estudiante de la Tecnicatura en Programación, enfocado en el desarrollo backend.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en... **nuestro Trabajo Final Integrador de Programación 2.**
+- 🌱 Estoy aprendiendo sobre... **Pools de Conexiones (HikariCP) y patrones DAO en Java.**
+- 👯 Busco colaborar en... (proyectos open source, etc. - *puedes dejarlo para más adelante*).
+- 🤔 Busco ayuda con... (conceptos avanzados de concurrencia, etc.).
+- 📫 Cómo contactarme: **saulhillar@outlook.es** o por **[LinkedIn]**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Stack Tecnológico (Lo que estoy usando)
+
+* **Lenguajes:** Java
+* **Bases de Datos:** MySQL
+* **Herramientas:** Git, GitHub, NetBeans
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+(¡Esto es un truco pro!) Podés agregar "badges" dinámicos que muestren tus estadísticas.
+(Busca en Google "github readme stats" para encontrar el generador de `github-readme-stats` de anuraghazra. Es solo copiar y pegar un link de imagen).
+
+`[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SNHillar&show_icons=true&theme=radical)](https://github.com/SNHillar)`
