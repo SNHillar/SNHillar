@@ -20,4 +20,4 @@ Soy un desarrollador de software y estudiante de la Tecnicatura en Programación
 
 ### 📊 Mis Estadísticas de GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiSNHillaranuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SNHillar&show_icons=true&theme=radical)](https://github.com/SNHillar)
