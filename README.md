@@ -2,10 +2,10 @@
 
 Soy un desarrollador de software y estudiante de la Tecnicatura en Programación, enfocado en el desarrollo backend.
 
-- 🔭 Actualmente estoy trabajando en... **nuestro Trabajo Final Integrador de Programación 2.**
-- 🌱 Estoy aprendiendo sobre... **Pools de Conexiones (HikariCP) y patrones DAO en Java.**
-- 👯 Busco colaborar en... (proyectos open source, etc. - *puedes dejarlo para más adelante*).
-- 🤔 Busco ayuda con... (conceptos avanzados de concurrencia, etc.).
+- 🔭 Actualmente estoy trabajando en **nuestro Trabajo Final Integrador de Programación 2 (CRUD con JDBC)**
+- 🌱 Estoy aprendiendo sobre **Pools de Conexiones (HikariCP) y patrones DAO en Java.**
+- 👯 Busco colaborar en proyectos open source, comunidades de desarrolladores, etc.
+- 🤔 Busco ayuda con conceptos avanzados de arquitectura y desarrollo, etc.
 - 📫 Cómo contactarme: **saulhillar@outlook.es**.
 
 ---
