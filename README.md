@@ -2,7 +2,7 @@
 
 Soy un desarrollador de software y estudiante de la Tecnicatura en Programación, enfocado en el desarrollo backend.
 
-- 🔭 Actualmente estoy trabajando en **nuestro Trabajo Final Integrador de Programación 2 (CRUD con JDBC)**
+- 🔭 Actualmente estoy trabajando en **un CRUD con Spring Boot**
 - 🌱 Estoy aprendiendo sobre **Spring**
 - 👯 Busco colaborar en proyectos open source, comunidades de desarrolladores, etc.
 - 🤔 Busco ayuda con conceptos avanzados de arquitectura y desarrollo, patrones de diseño, buenas prácticas, etc.
@@ -17,7 +17,3 @@ Soy un desarrollador de software y estudiante de la Tecnicatura en Programación
 * **Herramientas:** Git, GitHub, IntelliJ
 
 ---
-
-### 📊 Mis Estadísticas de GitHub
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SNHillar&show_icons=true&theme=radical)](https://github.com/SNHillar)
